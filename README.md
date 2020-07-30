@@ -1,7 +1,7 @@
 # This is a simple WordPress Theme :slightly_smiling_face:
 
 To complete this test you need to modify the file 'class-theme-utils.php' so that it produces the output (header & footer content only!) as seen in this image -> 
-![output screenshot](../main/output.jpg)
+![output screenshot](./output.jpg)
 
 
 ## IMPORTANT RULES BEFORE COMPLETING THIS TEST
